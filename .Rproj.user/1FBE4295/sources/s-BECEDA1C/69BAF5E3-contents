@@ -1,0 +1,3 @@
+usethis::use_git_config(user.name = "pierozannini", user.email = "piero.zannini2@unibo.it")
+usethis::create_github_token() 
+credentials::set_github_pat("myrepo2")
